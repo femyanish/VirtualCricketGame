@@ -1,0 +1,7 @@
+setup.py
+FantasyCricket/__init__.py.py
+FantasyCricket.egg-info/PKG-INFO
+FantasyCricket.egg-info/SOURCES.txt
+FantasyCricket.egg-info/dependency_links.txt
+FantasyCricket.egg-info/not-zip-safe
+FantasyCricket.egg-info/top_level.txt
